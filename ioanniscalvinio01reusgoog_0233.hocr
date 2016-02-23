@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio01reusgoog_0233.png"; bbox 0 0 4598 5902; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 380 1543 1814 1684">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 380 1543 1814 1684">
+     <span class='ocr_line' id='line_1_1' title="bbox 380 1543 1814 1684; baseline 0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 380 1543 813 1681; x_wconf 85' lang='lat' dir='ltr'><strong>IMPIETAS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 848 1545 1356 1683; x_wconf 84' lang='lat' dir='ltr'><strong>VALENTINI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1393 1547 1814 1684; x_wconf 83' lang='lat' dir='ltr'>GENTILIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 593 2158 1763 2313">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 593 2158 1763 2313">
+     <span class='ocr_line' id='line_1_2' title="bbox 593 2158 1763 2313; baseline 0.003 -29"><span class='ocrx_word' id='word_1_4' title='bbox 593 2200 879 2286; x_wconf 66' lang='lat' dir='ltr'><strong>mom</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 904 2201 985 2285; x_wconf 65' lang='lat' dir='ltr'><strong>Em</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1011 2199 1229 2285; x_wconf 76' lang='lat' dir='ltr'><strong>PALAM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1255 2199 1600 2313; x_wconf 68' lang='lat' dir='ltr'><strong>TRADUOTA,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1761 2158 1763 2163; x_wconf 71' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 234 2827 1956 2921">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 234 2827 1956 2921">
+     <span class='ocr_line' id='line_1_3' title="bbox 234 2827 1956 2921; baseline 0 -23"><span class='ocrx_word' id='word_1_9' title='bbox 234 2828 317 2913; x_wconf 78' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 338 2829 581 2900; x_wconf 73' lang='lat' dir='ltr'>OHRIS&#39;I&#39;UM</span> <span class='ocrx_word' id='word_1_11' title='bbox 601 2829 699 2899; x_wconf 87' lang='lat' dir='ltr'><strong>NON</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 721 2829 828 2897; x_wconf 81' lang='lat' dir='ltr'>SINE</span> <span class='ocrx_word' id='word_1_13' title='bbox 851 2827 1120 2898; x_wconf 70' lang='lat' dir='ltr'><strong>SAGRJLEGA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1141 2828 1450 2921; x_wconf 70' lang='lat' dir='ltr'><strong>BLASPHmA</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1471 2827 1607 2898; x_wconf 83' lang='lat' dir='ltr'>DEUM</span> <span class='ocrx_word' id='word_1_16' title='bbox 1628 2828 1956 2899; x_wconf 70' lang='lat' dir='ltr'>ESSENTIA&#39;PUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2304 5892">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2304 5892">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2304 5892; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2304 5892; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
